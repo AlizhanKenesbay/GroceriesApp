@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">GroceriesApp</string>
+
+    <!-- Bottom Navigation Title -->
+    <string name="menu_shop">Магазин</string>
+    <string name="menu_explore">Поиск</string>
+    <string name="menu_cart">Корзина</string>
+    <string name="menu_about">Аккаунт</string>
+    <string name="image_on_boarding">Image On Boarding</string>
+    <string name="welcome_to_store">Продуктовый \n магазин</string>
+    <string name="desc_welcome">В вашем кармане, в любое время</string>
+    <string name="get_started">Начать покупки</string>
+    <string name="search_store">Поиск в магазине</string>
+    <string name="search_category">Поиск в категории</string>
+    <string name="image_slider">Image Slider</string>
+    <string name="image_product">Image Product</string>
+    <string name="add">Add</string>
+    <string name="image_category">Image Category</string>
+    <string name="arrow_right">Arrow Right</string>
+    <string name="image_favorite">Image Favorite</string>
+    <string name="product_detail">Описание</string>
+    <string name="nutritions">Вес</string>
+    <string name="review">Оценка</string>
+    <string name="add_to_cart">Добавить в корзину</string>
+    <string name="logo_app">Logo App</string>
+    <string name="shop">Shop</string>
+    <string name="image_location">Image Location</string>
+    <string name="sample_country">Казахстан, Астана</string>
+    <string name="see_all">Посмотреть все</string>
+    <string name="exclusive_offer">Товары со скидками</string>
+    <string name="best_selling">Хиты продаж</string>
+    <string name="find_products">Каталог продуктов</string>
+    <string name="image_profile">Image Profile</string>
+    <string name="name_profile" translatable="false">Alizhan Kenesbay</string>
+    <string name="email_profile">alzhnk@gmail.com</string>
+    <string name="image_about">Image About</string>
+    <string name="logout">Выйти</string>
+    <string name="image_delete">Image Delete</string>
+    <string name="my_cart">Корзина</string>
+    <string name="image_content_empty">Image Content Empty</string>
+    <string name="oops_no_data">Ваша корзина пуста</string>
+</resources>
